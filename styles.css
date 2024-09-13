@@ -1,1 +1,17 @@
 /* your code */
+.row1{
+	background-color:darkblue;
+	color:white;
+}
+.row2{
+	background-color:wheat;
+}
+.row3{
+	background-color:lightcyan;
+	/* color:white; */
+}
+table{
+	width:100%
+	/* border: 1px solid black; */
+}
+
